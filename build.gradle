@@ -13,6 +13,6 @@ repositories {
 
 dependencies {
     implementation 'org.springframework:spring-core:5.1.4.RELEASE'
-    implemenion 'org.springframework:spring-context-broken'
+    implementation 'org.springframewor:spring-context-broken'
     implementation 'org.apache.logging.log4j:log4j-core:2.11.1'
 }
